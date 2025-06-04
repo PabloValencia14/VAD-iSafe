@@ -7,6 +7,7 @@ CAMARA_LATERAL = 2
 # Configuraciones de MediaPipe
 MEDIA_PIPE_MODEL_SELECTION = 1
 MEDIA_PIPE_MIN_DETECTION_CONFIDENCE = 0.5
+MEDIA_PIPE_MIN_TRACKING_CONFIDENCE = 0.5
 
 # Otros parámetros de configuración (por ejemplo, umbrales, rutas de archivos, etc.)
 UMBRAL_SCORE = 0.7
